@@ -1,11 +1,8 @@
-# awesome-microbits-ks2
-
-A primary-school-focused filter of [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit). 
-Curated for **extension activities for more able KS2 pupils and primary code clubs**.
+Curated from [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit).
 
 Sections removed entirely: C/C++, Rust, Ada, Other Languages, Interaction Languages, Programming Tools, Interface Chip, Hardware design, CAD, Projects Using micro:bit as a Dev Board. These are developer, security, or engineering-level content.
 
-**Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest resources.
+**Want to contribute?** See the [contributing guide](./contributing/) for how to suggest resources.
 
 ---
 

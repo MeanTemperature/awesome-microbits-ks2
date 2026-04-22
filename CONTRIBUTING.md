@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing
+permalink: /contributing/
+---
+
 ## Contributing
 
 Got a KS2-friendly micro:bit resource to add? Contributions are very welcome.
