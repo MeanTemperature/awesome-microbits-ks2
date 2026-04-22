@@ -1,28 +1,30 @@
 # awesome-microbits-ks2
+
 A primary-school-focused filter of [carlosperate/awesome-microbit](https://github.com/carlosperate/awesome-microbit). 
 Curated for **extension activities for more able KS2 pupils and primary code clubs**.
 
 Sections removed entirely: C/C++, Rust, Ada, Other Languages, Interaction Languages, Programming Tools, Interface Chip, Hardware design, CAD, Projects Using micro:bit as a Dev Board. These are developer, security, or engineering-level content.
 
-> **Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest resources.
+**Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest resources.
+
 ---
 
 ## 🗂️ Contents
 
-- [🆚 Visual Programming](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-visual-programming)
-- [🐍 Python (for more able KS2 / Y6 extension)](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-python)
-- [🗿 MakeCode Extensions](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-makecode-extensions)
-- [👩‍💻 Classroom Environments](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-classroom-environments)
-- [🎓 Machine Learning (brilliant for code clubs)](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-machine-learning)
-- [🧰 micro:bit Tools](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-microbit-tools)
-- [📱 Mobile Apps](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-mobile-apps)
-- [🅰️ Accessibility / SEND](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-accessibility)
-- [🖨️ 3D Printing](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-3d-printing)
-- [🎨 2D Design](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-2d-design)
-- [🏗️ Project Ideas](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-project-ideas)
-- [🗞️ Articles & Tutorials](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-articles)
-- [🎥 Videos](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-videos)
-- [🧑‍🏫 Teaching Resources](https://claude.ai/chat/849e6a4c-5e36-4f28-acf3-c25adf2c2f42#-teaching-resources)
+- [🆚 Visual Programming](#-visual-programming)
+- [🐍 Python (for more able KS2 / Y6 extension)](#-python)
+- [🗿 MakeCode Extensions](#-makecode-extensions)
+- [👩‍💻 Classroom Environments](#-classroom-environments)
+- [🎓 Machine Learning (brilliant for code clubs)](#-machine-learning)
+- [🧰 micro:bit Tools](#-microbit-tools)
+- [📱 Mobile Apps](#-mobile-apps)
+- [🅰️ Accessibility / SEND](#-accessibility)
+- [🖨️ 3D Printing](#-3d-printing)
+- [🎨 2D Design](#-2d-design)
+- [🏗️ Project Ideas](#-project-ideas)
+- [🗞️ Articles & Tutorials](#-articles)
+- [🎥 Videos](#-videos)
+- [🧑‍🏫 Teaching Resources](#-teaching-resources)
 
 ---
 
