@@ -4,6 +4,7 @@ Curated for **extension activities for more able KS2 pupils and primary code clu
 
 Sections removed entirely: C/C++, Rust, Ada, Other Languages, Interaction Languages, Programming Tools, Interface Chip, Hardware design, CAD, Projects Using micro:bit as a Dev Board. These are developer, security, or engineering-level content.
 
+> **Want to contribute?** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest resources.
 ---
 
 ## 🗂️ Contents
