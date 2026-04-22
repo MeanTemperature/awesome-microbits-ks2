@@ -9,7 +9,7 @@ permalink: /contributing/
 Got a KS2-friendly micro:bit resource to add? Contributions are very welcome.
 
 **Easiest way (no GitHub account needed):**
-[Email me](mailto:justinheath33@gmail.com?subject=awesome-microbits-ks2%20suggestion) 
+[Email me](mailto:microbits@luminisk.org.uk?subject=awesome-microbits-ks2%20suggestion) 
 with the details below and I'll add it.
 
 **If you're comfortable with GitHub:**
